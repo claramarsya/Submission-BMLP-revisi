@@ -1,1 +1,1 @@
-dataset clustering: https://www.kaggle.com/datasets/sebastianwillmann/beverage-sales
+dataset: https://www.kaggle.com/datasets/sebastianwillmann/beverage-sales
